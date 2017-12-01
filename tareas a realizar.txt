@@ -1,0 +1,21 @@
+--Imnoise
+--meanfilt2
+--medfilt2
+--midfilt2(max min)
+--modfilt2
+--imfilter
+--fspecial (sobel prewitt)
+--rotacion, escalabilidad, traslacion
+
+--imclose
+--imopen
+--imdilate
+--imerode
+--strel
+--transformada de hough
+--deteccion de curva
+--etiquetado,clasificacion
+
+
+
+
